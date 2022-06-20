@@ -1,4 +1,3 @@
 <!-- bootsrapped using @nurikjohn/create-me-project -->
 
-# Sample Express APP with MongoDB and typescript
-# task
+# Task Express APP with PostgreSQL and TypeScript
